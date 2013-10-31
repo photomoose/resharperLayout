@@ -28,3 +28,6 @@ Methods
 Structs
 
 Classes
+
+
+Adapted from Steve Dunn's [Blog](http://stevedunns.blogspot.co.uk/2009/03/halt-this-is-stylecop-you-are-in.html)
